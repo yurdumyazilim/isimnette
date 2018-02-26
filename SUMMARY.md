@@ -7,7 +7,7 @@
 * [Yerelleştirme](yerellestirme.md)
 * [Kullanıcı Ayarları](kullanici-ayarlari.md)
 * [Eposta Hesapları Ayarları](eposta-hesaplari-ayarlari.md)
-* Ürün Yönetimi
+* [Ürün Yönetimi](urun-yonetimi.md)
 * Tema ve Tasarım Yönetimi
 * Ödeme ve Kargo Yöntemleri
 * Müşteri Yönetimi
