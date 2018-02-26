@@ -6,5 +6,7 @@ Kendi E-Ticaret Sitenizi Kurmanızı ve Yönetmenizi Sağlar.
 
 ---
 
-İşimNette ile kendi E-Ticaret sitenizi kurabilir ve kolayca yönetebilirsiniz. Bu dökümantasyon yönetim panelindeki tüm ayarlar ve modüllerin kullanımı hakkında bilgiler içermektedir. 
+İşimNette ile kendi E-Ticaret sitenizi kurabilir ve kolayca yönetebilirsiniz. Bu dökümantasyon yönetim panelindeki tüm ayarlar ve modüllerin kullanımı hakkında bilgiler içermektedir.
+
+
 
