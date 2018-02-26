@@ -12,5 +12,5 @@
 * [Ödeme ve Kargo Yöntemleri](odeme-ve-kargo-yontemleri.md)
 * [Müşteri Yönetimi](musteri-yonetimi.md)
 * [Site Entegrasyon Yönetimi](site-entegrasyon-yonetimi.md)
-* Sipariş Takibi
+* [Sipariş Takibi](siparis-takibi.md)
 
