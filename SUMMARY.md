@@ -5,7 +5,7 @@
 * [Yönetim Paneli Genel Bakış](yonetim-paneli-genel-bakis.md)
 * [Site Genel Ayarları](site-genel-ayarlari.md)
 * [Yerelleştirme](yerellestirme.md)
-* Kullanıcı Ayarları
+* [Kullanıcı Ayarları](kullanici-ayarlari.md)
 * Eposta Hesapları Ayarları
 * Ürün Yönetimi
 * Tema ve Tasarım Yönetimi
