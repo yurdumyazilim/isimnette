@@ -1,8 +1,8 @@
 # Site Ayarları
 
-## Yönetim Paneli Genel Bakış
+Yönetim Paneli Genel Bakış
 
-## 
+
 
 ## Site Genel Ayarları
 
@@ -10,16 +10,15 @@
 * Mağaza ve İletişim Bilgileri Ayarı
 * Yerelleştirme Ayarları
 
-* Site Varsayılan Dil ve Para Birimi
+* [ ] Site Varsayılan Dil ve Para Birimi
 
-* Ürün Varsayılan Ağırlık ve Ölçü Birimleri
+* [ ] Ürün Varsayılan Ağırlık ve Ölçü Birimleri
 
 * Ürün Satışı Genel Ayarları
 
 * Eposta ve Bildirim Ayarları
+
 * Sunucu, Erişim ve Güvenlik Ayarları
-
-
 
 ## Yerelleştirme
 
@@ -37,26 +36,21 @@
 * Satış Ülke, Şehir, Bölge Tercihleri
 
 * Para Birimleri
+
 * Stok Durumları
 * Uzunluk Birimleri
 * Ağırlık Birimleri
 * İade Süreci Ayarları
-
-
 
 ## Kullanıcı Ayarları
 
 * Kullanıcı Grupları
 * Ek Kullanıcı Ekleme
 
-
-
 ## Eposta Hesapları Ayarları
 
 * Eposta Hesabı Ekleme 
 * Eposta Kurulum/Kullanım Rehberi
-
-
 
 ## Ürün Yönetimi
 
@@ -66,16 +60,16 @@
 * Ürün Özellikleri Ekleme
 
 * Ürün Seçenekleri Ekleme
+
 * Ürün Filtreleri Ekleme
 * Ürün Marka/Üreticileri Girişi
 
 * Ürün Girişi
 
 * Abonelikli Satış Bilgileri
+
 * Ürün Dosyaları
 * Ürün Yorumları 
-
-
 
 ## Tema ve Tasarım Yönetimi
 
@@ -90,6 +84,7 @@
 * Bölümler Genel Bakış
 
 * Ürün ve Bilgi Modülleri Oluşturma
+
 * Slayt ve Modül Oluşturma
 * Anasayfa Bölüm Düzeni
 * Diğer Bölümler
@@ -98,8 +93,6 @@
 
 * SEO Uyumlu Linkleri Düzenleme
 
-
-
 ## Ödeme ve Kargo Yöntemleri
 
 * Ödeme Yöntemleri
@@ -107,6 +100,7 @@
 * Ödeme Geçitleri
 
 * Banka Sanal Pos
+
 * Banka Havale/Eft
 * Kapıda Ödeme
 
@@ -114,7 +108,8 @@
 
 * Sabit Kargo Fiyatı
 
-* Ücretsiz Kargo 
+* Ücretsiz Kargo
+
 * Parça Başına Kargo 
 * Ağırlık Orantılı Kargo
 * Mağazadan Teslim Al
@@ -122,12 +117,11 @@
 
 * Sipariş Toplam Hesaplama Yöntemleri
 
-* Google Analytics Entegrasyonu 
+* Google Analytics Entegrasyonu
+
 * Meta Tag Yönetimi \(Meta Tag ve CSS Eklemek\)
 
 * Site \(Google, Yandex, Bing vb.\) Doğrulama
-
-
 
 ## Müşteri Yönetimi
 
@@ -135,8 +129,6 @@
 * Müşteri Grupları Oluşturma
 * Yeni Müşteri Doğrulama 
 * Ek Bilgi Alanları
-
-
 
 ## Site Entegrasyon Yönetimi
 
@@ -148,12 +140,11 @@
 
 * Google Merchant Entegrasyonu
 
-* Sitemap 
+* Sitemap
+
 * N11 Entegrasyonu 
 * GittiGidiyor Entegrasyonu
 * Bulutfon Entegrasyonu 
-
-
 
 ## Satış Takibi
 
@@ -164,6 +155,7 @@
 * Ürün İade Yönetimi
 
 * Abonelik Siparişleri
+
 * Hediye Çekleri
 
 
