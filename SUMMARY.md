@@ -6,7 +6,7 @@
 * [Site Genel Ayarları](site-genel-ayarlari.md)
 * [Yerelleştirme](yerellestirme.md)
 * [Kullanıcı Ayarları](kullanici-ayarlari.md)
-* Eposta Hesapları Ayarları
+* [Eposta Hesapları Ayarları](eposta-hesaplari-ayarlari.md)
 * Ürün Yönetimi
 * Tema ve Tasarım Yönetimi
 * Ödeme ve Kargo Yöntemleri
