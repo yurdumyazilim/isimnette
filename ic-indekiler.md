@@ -5,7 +5,7 @@ Yönetim Paneli Genel Bakış
 ## Site Genel Ayarları
 
 * Site Etiket ve Başlık Ayarları
-* Mağaza ve İletişim Bilgileri Ayarı
+* Mağaza ve İletişim Bilgileri Ayarları
 * Yerelleştirme Ayarları
 * Site Varsayılan Dil ve Para Birimi
 * Ürün Varsayılan Ağırlık ve Ölçü Birimleri
@@ -20,9 +20,12 @@ Yönetim Paneli Genel Bakış
 * Para Birimleri
 * Stok Durumları 
 * Sipariş Durumları
-* Vergilendirme
+
+### Vergilendirme
+
 * Vergi Sınıfları
 * Vergi Oranları
+
 * Satış Ülke, Şehir, Bölge Tercihleri
 * Para Birimleri
 * Stok Durumları
