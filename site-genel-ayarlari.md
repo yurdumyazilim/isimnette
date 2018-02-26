@@ -1,2 +1,2 @@
- 
+Site Genel Ayarları
 
