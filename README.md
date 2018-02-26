@@ -2,5 +2,9 @@
 
 Kendi E-Ticaret Sitenizi Kurmanızı ve Yönetmenizi Sağlar.
 
-İşimNette bir Yurdum Yayıncılık ve Yazılım San. Tic. Ltd. Şti. markasıdır.
+**İşimNette** bir **Yurdum Yayıncılık ve Yazılım San. Tic. ve Ltd. Şti.** markasıdır.
+
+---
+
+İşimNette ile kendi E-Ticaret sitenizi kurabilir ve kolayca yönetebilirsiniz. Bu dökümantasyon yönetim panelindeki tüm ayarlar ve modüllerin kullanımı hakkında bilgiler içermektedir. 
 
