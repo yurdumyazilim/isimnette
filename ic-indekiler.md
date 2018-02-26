@@ -13,8 +13,6 @@ Yönetim Paneli Genel Bakış
 * Eposta ve Bildirim Ayarları
 * Sunucu, Erişim ve Güvenlik Ayarları
 
-
-
 ## Yerelleştirme
 
 * Mağaza konumları
