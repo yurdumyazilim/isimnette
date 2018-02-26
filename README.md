@@ -1,6 +1,6 @@
-# isimnette
-İşimNette Gelişmiş E-Ticaret Altyapısı 
+# İşimNette Gelişmiş E-Ticaret Altyapısı Dökümantasyon
 
-Kendi E-Ticaret Sitenizi Kurmanızı ve Yönetmenizi Sağlar. 
+Kendi E-Ticaret Sitenizi Kurmanızı ve Yönetmenizi Sağlar.
 
-İşimNette bir Yurdum Yayıncılık ve Yazılım San. Tic. Ltd. Şti. markasıdır. 
+İşimNette bir Yurdum Yayıncılık ve Yazılım San. Tic. Ltd. Şti. markasıdır.
+
