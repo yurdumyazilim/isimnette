@@ -1,4 +1,4 @@
-# Site Ayarları {#siteayarlari}
+# Site Ayarları
 
 Yönetim Paneli Genel Bakış
 
