@@ -20,16 +20,10 @@ Yönetim Paneli Genel Bakış
 * Para Birimleri
 * Stok Durumları 
 * Sipariş Durumları 
-
-### Vergilendirme 
-
-* Vergi Sınıfları
-* Vergi Oranları
-
+* Vergilendirme
+* Vergi Sınıfları ve Vergi Oranları
 * Satış Ülke, Şehir, Bölge Tercihleri
-
 * Para Birimleri
-
 * Stok Durumları
 * Uzunluk Birimleri
 * Ağırlık Birimleri
@@ -109,7 +103,7 @@ Yönetim Paneli Genel Bakış
 * GittiGidiyor Entegrasyonu
 * Bulutfon Entegrasyonu 
 
-## Satış Takibi
+## Sipariş Takibi
 
 * Sipariş Yönetimi
 * Sipariş Durumları
