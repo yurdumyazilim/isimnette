@@ -2,8 +2,6 @@
 
 Yönetim Paneli Genel Bakış
 
-
-
 ## Site Genel Ayarları
 
 * Site Etiket ve Başlık Ayarları
@@ -38,6 +36,7 @@ Yönetim Paneli Genel Bakış
 * Para Birimleri
 
 * Stok Durumları
+
 * Uzunluk Birimleri
 * Ağırlık Birimleri
 * İade Süreci Ayarları
@@ -62,6 +61,7 @@ Yönetim Paneli Genel Bakış
 * Ürün Seçenekleri Ekleme
 
 * Ürün Filtreleri Ekleme
+
 * Ürün Marka/Üreticileri Girişi
 
 * Ürün Girişi
@@ -69,6 +69,7 @@ Yönetim Paneli Genel Bakış
 * Abonelikli Satış Bilgileri
 
 * Ürün Dosyaları
+
 * Ürün Yorumları 
 
 ## Tema ve Tasarım Yönetimi
@@ -86,6 +87,7 @@ Yönetim Paneli Genel Bakış
 * Ürün ve Bilgi Modülleri Oluşturma
 
 * Slayt ve Modül Oluşturma
+
 * Anasayfa Bölüm Düzeni
 * Diğer Bölümler
 
@@ -102,6 +104,7 @@ Yönetim Paneli Genel Bakış
 * Banka Sanal Pos
 
 * Banka Havale/Eft
+
 * Kapıda Ödeme
 
 * Kargo Yöntemleri
@@ -110,7 +113,8 @@ Yönetim Paneli Genel Bakış
 
 * Ücretsiz Kargo
 
-* Parça Başına Kargo 
+* Parça Başına Kargo
+
 * Ağırlık Orantılı Kargo
 * Mağazadan Teslim Al
 * Diğer Kargo Yöntemleri
@@ -142,7 +146,8 @@ Yönetim Paneli Genel Bakış
 
 * Sitemap
 
-* N11 Entegrasyonu 
+* N11 Entegrasyonu
+
 * GittiGidiyor Entegrasyonu
 * Bulutfon Entegrasyonu 
 
