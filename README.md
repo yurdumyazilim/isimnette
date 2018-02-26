@@ -1,6 +1,8 @@
 # İşimNette Gelişmiş E-Ticaret Altyapısı Dökümantasyon
 
-Kendi E-Ticaret Sitenizi Kurmanızı ve Yönetmenizi Sağlar.
+Kendi E-Ticaret sitenizi kurmanızı ve yönetebilmenizi sağlar.
+
+
 
 **İşimNette** bir **Yurdum Yayıncılık ve Yazılım San. Tic. ve Ltd. Şti.** markasıdır.
 
@@ -8,7 +10,9 @@ Kendi E-Ticaret Sitenizi Kurmanızı ve Yönetmenizi Sağlar.
 
 ---
 
-İşimNette ile kendi E-Ticaret sitenizi kurabilir ve kolayca yönetebilirsiniz. Bu dökümantasyon yönetim panelindeki tüm ayarlar ve modüllerin kullanımı hakkında bilgiler içermektedir.
+İşimNette ile kendi E-Ticaret sitenizi kurabilir ve kolayca yönetebilirsiniz. 
+
+> Bu dökümantasyon yönetim panelindeki tüm ayarlar ve modüllerin kullanımı hakkında bilgiler içermektedir.
 
 İşimNette E-Ticaret hakkında püf noktaları ve arayüz önerileri için [**blog.isimnette.com**](https://blog.isimnette.com) adresimizi ziyaret edebilirsiniz.
 
