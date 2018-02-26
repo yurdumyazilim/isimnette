@@ -11,6 +11,6 @@
 * [Tema ve Tasarım Yönetimi](tema-ve-tasarim-yonetimi.md)
 * [Ödeme ve Kargo Yöntemleri](odeme-ve-kargo-yontemleri.md)
 * [Müşteri Yönetimi](musteri-yonetimi.md)
-* Site Entegrasyon Yönetimi
+* [Site Entegrasyon Yönetimi](site-entegrasyon-yonetimi.md)
 * Sipariş Takibi
 
