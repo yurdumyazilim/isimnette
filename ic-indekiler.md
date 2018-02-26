@@ -19,7 +19,7 @@ Yönetim Paneli Genel Bakış
 * Dil Seçenekleri
 * Para Birimleri
 * Stok Durumları 
-* Sipariş Durumları
+* Sipariş Durumları 
 
 ### Vergilendirme
 
@@ -27,6 +27,7 @@ Yönetim Paneli Genel Bakış
 * Vergi Oranları
 
 * Satış Ülke, Şehir, Bölge Tercihleri
+
 * Para Birimleri
 * Stok Durumları
 * Uzunluk Birimleri
