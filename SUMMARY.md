@@ -9,7 +9,7 @@
 * [Eposta Hesapları Ayarları](eposta-hesaplari-ayarlari.md)
 * [Ürün Yönetimi](urun-yonetimi.md)
 * [Tema ve Tasarım Yönetimi](tema-ve-tasarim-yonetimi.md)
-* Ödeme ve Kargo Yöntemleri
+* [Ödeme ve Kargo Yöntemleri](odeme-ve-kargo-yontemleri.md)
 * Müşteri Yönetimi
 * Site Entegrasyon Yönetimi
 * Sipariş Takibi
