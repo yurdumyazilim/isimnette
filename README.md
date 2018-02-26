@@ -10,3 +10,11 @@ Kendi E-Ticaret Sitenizi Kurmanızı ve Yönetmenizi Sağlar.
 
 
 
+İşimNette E-Ticaret hakkında püf noktaları ve arayüz önerileri için [**blog.isimnette.com**](https://blog.isimnette.com) adresimizi ziyaret edebilirsiniz. 
+
+
+
+E-Ticaret paket bilgileri hakkında websitemizi ziyaret edebilirsiniz: [**www.isimnette.com**](/www.isimnette.com)
+
+
+
