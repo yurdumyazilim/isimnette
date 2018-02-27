@@ -4,10 +4,10 @@
 
 * [Giriş](README.md)
 * [İçindekiler](ic-indekiler.md)
+* [Yönetim Paneli Genel Bakış](yonetim-paneli-genel-bakis.md)
 
 ## Ayarlar
 
-* [Yönetim Paneli Genel Bakış](yonetim-paneli-genel-bakis.md)
 * [Site Genel Ayarları](site-genel-ayarlari.md)
 * [Yerelleştirme](yerellestirme.md)
 * [Kullanıcı Ayarları](kullanici-ayarlari.md)
@@ -17,13 +17,13 @@
 
 * [Ürün ve Kategori Yönetimi](urun-yonetimi.md)
 
-## TEMA VE TASARİM YÖNETİMİ
+## TEMA VE TASARIM YÖNETİMİ
 
 * [Tema ve Tasarım](tema-ve-tasarim-yonetimi.md)
 * [Bölüm Oluşturma](bolum-olusturma.md)
 * Bilgi Sayfaları
 
-## Sipariş Süreç Yönetimi
+## SİPARİŞ SÜREÇ YÖNETİMİ
 
 * [Ödeme ve Kargo Yöntemleri](odeme-ve-kargo-yontemleri.md)
 * [Müşteri Yönetimi](musteri-yonetimi.md)
