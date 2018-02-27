@@ -15,7 +15,7 @@
 
 ## ÜRÜN YÖNETİMİ
 
-* [Ürün Yönetimi](urun-yonetimi.md)
+* [Ürün ve Kategori Yönetimi](urun-yonetimi.md)
 
 ## TEMA VE TASARİM YÖNETİMİ
 
