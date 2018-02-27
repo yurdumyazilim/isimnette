@@ -1,7 +1,5 @@
 # İşimNette Gelişmiş E-Ticaret Altyapısı Dökümantasyon
 
-Kendi E-Ticaret sitenizi kurmanızı ve yönetebilmenizi sağlar.
-
 **İşimNette** bir **Yurdum Yayıncılık ve Yazılım San. Tic. ve Ltd. Şti.** markasıdır.
 
 ![](/assets/isimnette-logo.png)
