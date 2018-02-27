@@ -17,9 +17,11 @@
 
 * [Ürün Yönetimi](urun-yonetimi.md)
 
-## Tema ve Tasarım
+## TEMA VE TASARİM YÖNETİMİ
 
-* [Tema ve Tasarım Yönetimi](tema-ve-tasarim-yonetimi.md)
+* [Tema ve Tasarım](tema-ve-tasarim-yonetimi.md)
+* [Bölüm Oluşturma](bolum-olusturma.md)
+* Bilgi Sayfaları
 
 ## Sipariş Süreç Yönetimi
 
