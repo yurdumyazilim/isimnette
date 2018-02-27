@@ -13,7 +13,7 @@
 * [Kullanıcı Ayarları](kullanici-ayarlari.md)
 * [Eposta Hesapları Ayarları](eposta-hesaplari-ayarlari.md)
 
-## Ürün Yönetimi
+## ÜRÜN YÖNETİMİ
 
 * [Ürün Yönetimi](urun-yonetimi.md)
 
