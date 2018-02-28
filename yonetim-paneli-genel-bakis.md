@@ -16,5 +16,9 @@ Sol menüdeki alanlar ile sitenizin düzenleyebilir, mevcut ürünlerinizi ve ka
 
 **Modüller**: Bu alandan, ödeme yöntemleri, kargo yöntemleri, ürün alım süreci \(sipariş toplamları\), Google Analytics ve Meta Tag yönetimini gerçekleştirebilirsiniz.
 
-**Pazarlama**: 
+**Pazarlama**: Bir kampanya düzenleyerek bu kampanyaya tıklayan veya kampanya aracılığıyla alım yapanları görebilir ve hediye çeki düzenleyerek satışlarınızı artırmak için kampanya/promosyon yönetimi gerçekleştirebilirsiniz. 
+
+**Raporlar**: Sitenize gelen ziyaretçilerin hangi ürünleri aradığını, arama kelimelerini, yaptığınız satışlardan tamamlanan/iade olan/hatalı işlem yapılan sayısını ve miktarını, sık görüntülenen ürünleri, aktif ziyaretçileri gibi detaylı istatistikleri görebilirsiniz.
+
+ 
 
