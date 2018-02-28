@@ -20,7 +20,8 @@
 ## TEMA VE TASARIM YÖNETİMİ
 
 * [Tema ve Tasarım](tema-ve-tasarim-yonetimi.md)
-* [Bölüm Oluşturma](bolum-olusturma.md)
+* [Bölüm Modülleri](bolum-olusturma.md)
+* Bölüm Yönetimi
 * [Bilgi Sayfaları](bilgi-sayfalari.md)
 
 ## SİPARİŞ SÜREÇ YÖNETİMİ
