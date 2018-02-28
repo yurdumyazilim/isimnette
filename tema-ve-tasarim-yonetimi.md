@@ -12,3 +12,7 @@ _Tasarım -&gt; Tema Düzenle -&gt; Ürünler_ sekmesi aracılığıyla anasayfa
 
 ![](/assets/tasarim-kismi-tema-urunler-ayari.png)
 
+**Örnek kullanım**: Sayfa başına ürün sayısını 10 seçtiğinizde 15 ürününüz bulunan bir kategoride ilk sayfada 10 ikinci sayfada 5 ürün gösterilecektir.
+
+_Not: İlgili alanlara yalnızca sayı girebilirsiniz. _
+
