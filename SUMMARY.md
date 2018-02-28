@@ -11,7 +11,7 @@
 * [Site Genel Ayarları](site-genel-ayarlari.md)
 * [Yerelleştirme](yerellestirme.md)
 * [Kullanıcı Ayarları](kullanici-ayarlari.md)
-* [Eposta Hesapları Ayarları](eposta-hesaplari-ayarlari.md)
+* [Eposta Hesapları Yönetimi](eposta-hesaplari-ayarlari.md)
 
 ## ÜRÜN YÖNETİMİ
 
