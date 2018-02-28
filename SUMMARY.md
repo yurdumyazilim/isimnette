@@ -21,7 +21,7 @@
 
 * [Tema ve Tasarım](tema-ve-tasarim-yonetimi.md)
 * [Bölüm Modülleri](bolum-olusturma.md)
-* Bölüm Yönetimi
+* [Bölüm Yönetimi](bolum-yonetimi.md)
 * [Bilgi Sayfaları](bilgi-sayfalari.md)
 
 ## SİPARİŞ SÜREÇ YÖNETİMİ
