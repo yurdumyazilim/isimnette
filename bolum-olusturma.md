@@ -28,11 +28,11 @@ Durumu: Pasif/Aktif durum düzenlemesi.
 
 ### HTML İçerik
 
-HTML Modülü ile dilediğiniz yazı, görsel, video, link, bilgilendirme yazıları, html kod, vb tüm girişleri editör aracılığıyla yapabilirsiniz. Dilediğiniz kadar HTML içerik modülü oluşturabilirsiniz.  
+HTML Modülü ile dilediğiniz yazı, görsel, video, link, bilgilendirme yazıları, html kod, vb tüm girişleri editör aracılığıyla yapabilirsiniz. Dilediğiniz kadar HTML içerik modülü oluşturabilirsiniz.
 
 ![](/assets/html-icerik.png)
 
-Modül Adı: Site yönetim panelinde görüntülenecek modül adı. 
+Modül Adı: Site yönetim panelinde görüntülenecek modül adı.
 
 Başlık: Sitede görüntülenecek modül başlığı.
 
@@ -40,16 +40,16 @@ Başlık: Sitede görüntülenecek modül başlığı.
 
 Durum: Aktif/pasif seçeneklerini kullanarak modülün durumunu yönetebilirsiniz.
 
-### Yeni Ürünler 
+### Yeni Ürünler
 
-Bu modül aracılığıyla sitenize eklediğiniz belirli sayıdaki ürünün sitenizde görüntülenmesini sağlayabilirsiniz. Bu modülde iki farklı kullanım özelliği bulunmaktadır; 
+Bu modül aracılığıyla sitenize eklediğiniz belirli sayıdaki ürünün sitenizde görüntülenmesini sağlayabilirsiniz. Bu modülde iki farklı kullanım özelliği bulunmaktadır;
 
 1. Ürünler yazan kısımdan ürün _seçmeniz_ durumunda bu ürünler sitenizde görüntülenir.
 2. Ürünler yazan kısımdan ürün _seçmemeniz_ durumunda sitenize eklenen belirli sayıdaki ürün sitenizde görüntülenir. 
 
 ![](/assets/bolum-modulleri-en-yeni-urunler.png)
 
-Modül Adı: Modülün yönetim panelinizde görüntülenecek adı. 
+Modül Adı: Modülün yönetim panelinizde görüntülenecek adı.
 
 Türkçe Başlık: Modülün sitenizde görüntülenecek adı.
 
@@ -59,7 +59,23 @@ Türkçe Başlık: Modülün sitenizde görüntülenecek adı.
 
 Limit: Görüntülenmesini istediğiniz ürün sayısı.
 
-Durum: Açık/Kapalı ile modülün aktiflik durumunu yönetebilirsiniz. 
+Durum: Açık/Kapalı ile modülün aktiflik durumunu yönetebilirsiniz.
+
+### Özel Ürünler
+
+Bu modül aracılığıyla belirlediğiniz ürünler için sitenizde özel bir görünüm sağlayabilirsiniz. Ana Ürün, diğer ürünlere göre %100 daha büyük görünümde olacak şekilde özel bir görünüme sahiptir. 
+
+![](/assets/bolum-modulleri-ozel-urunler.png)
+
+Modül Adı: Modülün yönetim panelinizde görüntülenecek adı.
+
+Türkçe Başlık: Modülün sitenizde görüntülenecek adı.
+
+İngilizce Başlık: Modülünü siteniz İngilizce sürümünde görüntülenecek adı.
+
+Önerilen görünüm düzeni; Sol ürünler; 2 adet, Ana ürün; 1 adet; Sağ ürünler; 2 adet olacak şekilde belirlemeniz durumunda bu görünüm aktifleşmektedir. Fazladan eklenen ürünler bu modül altında listelenerek görüntülenir. 
+
+### Seçtiklerimiz
 
 
 
