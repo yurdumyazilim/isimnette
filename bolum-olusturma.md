@@ -63,7 +63,7 @@ Durum: Açık/Kapalı ile modülün aktiflik durumunu yönetebilirsiniz.
 
 ### Özel Ürünler
 
-Bu modül aracılığıyla belirlediğiniz ürünler için sitenizde özel bir görünüm sağlayabilirsiniz. Ana Ürün, diğer ürünlere göre %100 daha büyük görünümde olacak şekilde özel bir görünüme sahiptir. 
+Bu modül aracılığıyla belirlediğiniz ürünler için sitenizde özel bir görünüm sağlayabilirsiniz. Ana Ürün, diğer ürünlere göre %100 daha büyük görünümde olacak şekilde özel bir görünüme sahiptir.
 
 ![](/assets/bolum-modulleri-ozel-urunler.png)
 
@@ -73,11 +73,25 @@ Türkçe Başlık: Modülün sitenizde görüntülenecek adı.
 
 İngilizce Başlık: Modülünü siteniz İngilizce sürümünde görüntülenecek adı.
 
-Önerilen görünüm düzeni; Sol ürünler; 2 adet, Ana ürün; 1 adet; Sağ ürünler; 2 adet olacak şekilde belirlemeniz durumunda bu görünüm aktifleşmektedir. Fazladan eklenen ürünler bu modül altında listelenerek görüntülenir. 
+Önerilen görünüm düzeni; Sol ürünler; 2 adet, Ana ürün; 1 adet; Sağ ürünler; 2 adet olacak şekilde belirlemeniz durumunda bu görünüm aktifleşmektedir. Fazladan eklenen ürünler bu modül altında listelenerek görüntülenir.
 
 ### Seçtiklerimiz
 
+En kullanışlı ürün modüllerinden birisi olan Seçtiklerimiz sayesinde belirlediğiniz ürünleri sıralı bir şekilde sitenizde görüntüleyebilirsiniz. Bu modülden dilediğiniz kadar oluşturabilirsiniz, farklı isimler verebilirsiniz. 
 
+![](/assets/bolum-modulleri-sectiklerimiz.png)
+
+Modül Adı: Modülün yönetim panelinizde görüntülenecek adı.
+
+Türkçe Başlık: Modülün sitenizde görüntülenecek adı.
+
+İngilizce Başlık: Modülünü siteniz İngilizce sürümünde görüntülenecek adı.
+
+Ürünler: Gösterilmesini istediğiniz ürünlerin seçimini yapabilirsiniz.
+
+Limit: Görüntülenmesini istediğiniz ürün sayısı. 
+
+_Not: Belirlediğiniz limit değeri, seçtiğiniz ürün sayısından az olması durumunda, limitte belirtilen değer kadar ürün gösterimi yapılır. Limit değeri, ürün sayısından fazla olması durumunda, seçtiğiniz sayıdaki ürünün gösterimi yapılır._
 
 ### Bölüm Oluşturma ve Modül Ekleme
 
