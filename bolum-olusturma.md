@@ -1,6 +1,6 @@
 # Bölüm Modülleri Oluşturma
 
-İşimNette E-Ticaret altyapısı modüler bir yapıda bulunmaktadır. Oluşturacağınız sayfaların tamamı çeşitli bölümlerle oluşturulabilmektedir. Görünüm olarak beğendiğiniz bölüm modülünü dilediğiniz kısımda kullanabilirsiniz.
+İşimNette E-Ticaret altyapısı modüler bir yapıda bulunmaktadır. Oluşturacağınız sayfaların tamamı çeşitli bölümlerle oluşturulabilmektedir. Görünüm olarak beğendiğiniz bölüm modülünü dilediğiniz kısımda kullanabilirsiniz. 
 
 Kategori modülü dışındaki tüm modüllerden dilediğiniz sayıda oluşturabilir, farklı içerik atamaları yapabilir, anasayfa/ürün vb. dilediğiniz bölümde kullanabilirsiniz.
 
@@ -107,7 +107,7 @@ Modül Adı: Modülün yönetim panelinizde görüntülenecek adı.
 
 Türkçe Başlık: Modülün sitenizde görüntülenecek adı.
 
-İngilizce Başlık: Modülünü siteniz İngilizce sürümünde görüntülenecek adı. 
+İngilizce Başlık: Modülünü siteniz İngilizce sürümünde görüntülenecek adı.
 
 Limit: Görüntülenmesini istediğiniz ürün sayısı.
 
