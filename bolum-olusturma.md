@@ -113,67 +113,67 @@ Limit: Görüntülenmesini istediğiniz ürün sayısı.
 
 _Not: Ürünleriniz için kampanya tanımını, Ürün Yönetimi -&gt; Ürünler -&gt; Ürün Düzenle kısmından bir ürün düzenleyerek Kampanya sekmesinden yapabilirsiniz. _
 
+### Filtreler Modülü
+
+Filtreler modülü sistem tarafından otomatik olarak, bulunduğu yerdeki \(kategoriler/aramalar/özel bölüm\) filtre değerlerine göre oluşmaktadır.  Açık/Kapalı ayarı bulunmaktadır. 
+
 ### Mağazalar Modülü
 
-Sitenize giriş yaptığınız fiziksel mağazalarınıza dair bilgileri listeleyen modül olarak kullanılmaktadır. 
+Sitenize giriş yaptığınız fiziksel mağazalarınıza dair bilgileri listeleyen modül olarak kullanılmaktadır.
 
 Mağazalar listenizi, _Ayarlar -&gt; Yerelleştirme -&gt; Konumlar_ kısmından girebilirsiniz. Giriş yaptığınız konumların _Ayarlar -&gt; Genel Ayarlar -&gt; Mağaza_ sekmesindeki alt kısımdan işaretlemeyi unutmayınız.
 
 ![](/assets/bolum-modulleri-magazalar.png)
 
-Sadece Yöneticilere Göster: Bu seçenek ile modülün sitenizde gösterileceği kesimi seçebilirsiniz. 
+Sadece Yöneticilere Göster: Bu seçenek ile modülün sitenizde gösterileceği kesimi seçebilirsiniz.
 
 ### Slayt ve Carousel \(Kayan Görsel Bandı\) Oluşturma
 
-Slayt yayınlamak iki aşamadan oluşmaktadır. Aynı slaytı görsellerini hem Slayt Gösterisi hem de Carousel \(Kayan Görsel Bandı\) olarak kullanabilirsiniz. 
+Slayt yayınlamak iki aşamadan oluşmaktadır. Aynı slaytı görsellerini hem Slayt Gösterisi hem de Carousel \(Kayan Görsel Bandı\) olarak kullanabilirsiniz.
 
 **1.Aşama: Slayt Görselleri Yükleme**
 
-_Tasarım -&gt; Slaytlar _kısmından görsellerinizi girebilirsiniz. 
+\_Tasarım -&gt; Slaytlar \_kısmından görsellerinizi girebilirsiniz.
 
 **Önemli Not**: Tüm görsellerinizin aynı boyutta yüklemeniz sitenizdeki görünüm için önemlidir. ![](/assets/bolum-modulleri-slaytlar.png)
 
 Başlık: Bazı temalarda başlıktaki yazı görsel üzerinde görüntülenmektedir.
 
-Bağlantı: Sitenize veya başka sitelere bağlantılar verebilir veya boş bırakabilirsiniz. 
+Bağlantı: Sitenize veya başka sitelere bağlantılar verebilir veya boş bırakabilirsiniz.
 
-Resim: Görselinizi sitenize yüklediğiniz alan. 
+Resim: Görselinizi sitenize yüklediğiniz alan.
 
-Sıralama: Sitenizde görsellerin slayttaki sırasını belirtlen alan.  
+Sıralama: Sitenizde görsellerin slayttaki sırasını belirtlen alan.
 
 **2.1 Aşama: Slaytı Oluşturma**
 
 Tasarım -&gt; Bölüm Modülleri -&gt; Slayt Gösterisi kısmından yeni bir slayt eklemeyi seçerek, oluşturduğumuz slaytı seçiyoruz.![](/assets/slayt-ekle.png)
 
-Modül Adı: Modülünü yönetim panelinde görünecek adı. 
+Modül Adı: Modülünü yönetim panelinde görünecek adı.
 
-Slayt: 1. aşamada oluşurduğumuz slayt ismini seçiyoruz. 
+Slayt: 1. aşamada oluşurduğumuz slayt ismini seçiyoruz.
 
-Genişlik ve Yükseklik: 1. aşamada oluşturduğumuz görsel boyutlarıyla aynı olacak boyutlarda değerleri giriyoruz. 
+Genişlik ve Yükseklik: 1. aşamada oluşturduğumuz görsel boyutlarıyla aynı olacak boyutlarda değerleri giriyoruz.
 
 _Not: Temalarda üst slayt alanı için farklı ölçüler kullanılabilmektedir. İdeal boyutları kullanım yerine ve oluşturacağınız görsellere göre belirleyebilirsiniz. _
 
-**Önerilen**: Anasayfada sağ veya sol bloktan birisini aktif olarak kullanıyorsanız 900\*400, sadece orta kısımı kullanıyorsanız 1140\*550 boyutlarında slayt oluşturmanızı öneririz.   
+**Önerilen**: Anasayfada sağ veya sol bloktan birisini aktif olarak kullanıyorsanız 900\*400, sadece orta kısımı kullanıyorsanız 1140\*550 boyutlarında slayt oluşturmanızı öneririz.
 
 **2.2 Aşama: Carousel \(Kayan Görsel Bandı\) Oluşturma**
 
-Carousel Oluşturmak için 1. aşamada belirtilen görsel yükleme işlemini gerçekleştirmeniz gerekmektedir. 
+Carousel Oluşturmak için 1. aşamada belirtilen görsel yükleme işlemini gerçekleştirmeniz gerekmektedir.
 
-Carousel'in özel bir görüntüsü olup genellikle üretici görselleri kayan bandı oluşturmada kullanılmaktadır. 
+Carousel'in özel bir görüntüsü olup genellikle üretici görselleri kayan bandı oluşturmada kullanılmaktadır.
 
 ![](/assets/bolum-olusturma-carousel.png)
 
-Modül Adı: Modülünü yönetim panelinde görünecek adı. 
+Modül Adı: Modülünü yönetim panelinde görünecek adı.
 
-Slayt: 1. aşamada oluşurduğumuz slayt ismini seçiyoruz. 
+Slayt: 1. aşamada oluşurduğumuz slayt ismini seçiyoruz.
 
-Genişlik ve Yükseklik: 1. aşamada oluşturduğumuz görsel boyutlarıyla aynı olacak boyutlarda değerleri giriyoruz. 
+Genişlik ve Yükseklik: 1. aşamada oluşturduğumuz görsel boyutlarıyla aynı olacak boyutlarda değerleri giriyoruz.
 
 _Not: Genişlik ve yükseklik için oluşturduğunuz görsellerin katlarında değerler girebilirsiniz. _
 
-**Örnek**: tüm görselleriniz 500\*500 ise 200\*200 boyutlarında carousel bandı oluşturabilirsiniz. Kullanacağınız kısıma göre ve bu kısımda aynı anda görüntülenmesini istediğiniz sayıdaki görsel değerine göre boyutlar verebilirsiniz. 
-
-
-
-
+**Örnek**: tüm görselleriniz 500\*500 ise 200\*200 boyutlarında carousel bandı oluşturabilirsiniz. Kullanacağınız kısıma göre ve bu kısımda aynı anda görüntülenmesini istediğiniz sayıdaki görsel değerine göre boyutlar verebilirsiniz.
 
