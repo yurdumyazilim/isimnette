@@ -107,7 +107,7 @@ Modül Adı: Modülün yönetim panelinizde görüntülenecek adı.
 
 Türkçe Başlık: Modülün sitenizde görüntülenecek adı.
 
-İngilizce Başlık: Modülünü siteniz İngilizce sürümünde görüntülenecek adı.
+İngilizce Başlık: Modülünü siteniz İngilizce sürümünde görüntülenecek adı. 
 
 Limit: Görüntülenmesini istediğiniz ürün sayısı.
 
@@ -115,7 +115,7 @@ _Not: Ürünleriniz için kampanya tanımını, Ürün Yönetimi -&gt; Ürünler
 
 ### Filtreler Modülü
 
-Filtreler modülü sistem tarafından otomatik olarak, bulunduğu yerdeki \(kategoriler/aramalar/özel bölüm\) filtre değerlerine göre oluşmaktadır.  Açık/Kapalı ayarı bulunmaktadır. 
+Filtreler modülü sistem tarafından otomatik olarak, bulunduğu yerdeki \(kategoriler/aramalar/özel bölüm\) filtre değerlerine göre oluşmaktadır.  Açık/Kapalı ayarı bulunmaktadır.
 
 ### Mağazalar Modülü
 
