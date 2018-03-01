@@ -10,6 +10,10 @@ Kategori modülü dışındaki tüm modüllerden dilediğiniz sayıda oluşturab
 
 Sitede alt kısımda bulunan bilgiler modülünü site üzerine farklı bir bölümde kullanılmak istenilirse bu modül aktifleştirilerek bölümlere eklenebilir. Bu modülün sadece Açık/Kapalı durum değişiklik ayarı mevcuttur.
 
+### Kategoriler Modülü
+
+Sitenizde bulunan kategorileri listelemek için kullanılır. Sitenizde özellikle bulunmasını istediğiniz bir alanda bu modülü kullanarak kategorilerinizi listeyelebilirsiniz. Bu modülün sadece Açık/Kapalı durum değişiklik ayarı mevcuttur.
+
 ### En Çok Satanlar
 
 Bu modül ile sitenizde satışı en çok gerçekleştirilen belirli sayıdaki ürün listelenir. Bu modülden birden fazla oluşturabilirsiniz fakat en çok satılan ürünler listesi sistemde belirli olduğundan görüntülenen ürün sayısı aynı olacaktır. Limit ayarının kullanımı için bu modülden birden fazla oluşturabilirsiniz.
@@ -77,7 +81,7 @@ Türkçe Başlık: Modülün sitenizde görüntülenecek adı.
 
 ### Seçtiklerimiz
 
-En kullanışlı ürün modüllerinden birisi olan Seçtiklerimiz sayesinde belirlediğiniz ürünleri sıralı bir şekilde sitenizde görüntüleyebilirsiniz. Bu modülden dilediğiniz kadar oluşturabilirsiniz, farklı isimler verebilirsiniz. 
+En kullanışlı ürün modüllerinden birisi olan Seçtiklerimiz sayesinde belirlediğiniz ürünleri sıralı bir şekilde sitenizde görüntüleyebilirsiniz. Bu modülden dilediğiniz kadar oluşturabilirsiniz, farklı isimler verebilirsiniz.
 
 ![](/assets/bolum-modulleri-sectiklerimiz.png)
 
@@ -89,9 +93,27 @@ Türkçe Başlık: Modülün sitenizde görüntülenecek adı.
 
 Ürünler: Gösterilmesini istediğiniz ürünlerin seçimini yapabilirsiniz.
 
-Limit: Görüntülenmesini istediğiniz ürün sayısı. 
+Limit: Görüntülenmesini istediğiniz ürün sayısı.
 
 _Not: Belirlediğiniz limit değeri, seçtiğiniz ürün sayısından az olması durumunda, limitte belirtilen değer kadar ürün gösterimi yapılır. Limit değeri, ürün sayısından fazla olması durumunda, seçtiğiniz sayıdaki ürünün gösterimi yapılır._
+
+### Kampanyalı Ürünler
+
+Bu modül aracılığıyla sitenizde kampanya tanımladığınız ürünleri görüntüleyebilirsiniz. Sitenizdeki kampanyalı ürünler bu modül tarafından otomatik algılanacaktır. 
+
+![](/assets/bolum-modulleri-kampanya.png)
+
+Modül Adı: Modülün yönetim panelinizde görüntülenecek adı.
+
+Türkçe Başlık: Modülün sitenizde görüntülenecek adı.
+
+İngilizce Başlık: Modülünü siteniz İngilizce sürümünde görüntülenecek adı.
+
+Limit: Görüntülenmesini istediğiniz ürün sayısı.
+
+_Not: Ürünleriniz için kampanya tanımını, Ürün Yönetimi -&gt; Ürünler -&gt; Ürün Düzenle kısmından bir ürün düzenleyerek Kampanya sekmesinden yapabilirsiniz. _
+
+
 
 ### Bölüm Oluşturma ve Modül Ekleme
 
