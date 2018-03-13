@@ -4,7 +4,7 @@
 
 _Tasarım -&gt; Tema Düzenle_ kısmından beğendiğiniz bir temaya seçerek sitenize uygulayabilirsiniz. Tema değişikliği ile ürün, kategori bilgileri veya sayfa içeriklerinizde bir değişiklik olmaz. Tema siteniz görünümüne uygulanır.
 
-_Not: Bazı temalarımız anasayfasında sağ blok ve sol blok tanımı bulunmamaktadır, tam ekran görünüm uygulanmaktadır._
+_Not: Bazı temaların anasayfa düzeninde sağ blok ve sol blok tanımı bulunmamaktadır, tam ekran görünüm uygulanmaktadır._
 
 ![](/assets/temadegistirme.png)
 
