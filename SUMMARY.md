@@ -33,8 +33,8 @@
 ## Entegrasyon
 
 * [XML Entegrasyonu](entegrasyon/xml-entegrasyonu.md)
-* n11 Entegrasyonu
-* Gittigidiyor Entegrasyonu
+* [n11 Entegrasyonu](entegrasyon/n11-entegrasyonu.md)
+* [Gittigidiyor Entegrasyonu](entegrasyon/gittigidiyor-entegrasyonu.md)
 * Bulutfon Entegrasyonu
-* Google Merchants
+* [Google Merchants](entegrasyon/google-merchants.md)
 
