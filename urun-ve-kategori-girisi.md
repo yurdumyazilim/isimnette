@@ -12,11 +12,15 @@ Sitenizdeki ürün kategorilerinizin girişini görsellerde anlatıldığı şek
 
 #### ![](/assets/alt-kategori1.png)![](/assets/alt-kategori2.png)
 
+---
+
+## 
+
 ## Ürün Girişi
 
 Bu aşamadan önce sitenizdeki tüm ayarları yapmış olmanızı ve bir önceki bölümde yer alan Özellikler, Seçenekler, Filtreler, Üreticiler ve Kategoriler değerlerinin eksiksiz olarak sitenize girmiş olmanızı öneririz.
 
-## 
+![](/assets/urungirisi1.png)![](/assets/urungirisi3.png)![](/assets/urungirisi4.png)![](/assets/urungirisi5.png)![](/assets/urungirisi6.png)![](/assets/urungirisi7.png)![](/assets/urungirisi8.png)![](/assets/urungirisi9.png)![](/assets/urungirisi10.png)![](/assets/urungirisi11.png)![](/assets/urungirisi12.png)![](/assets/urungirisi13.png)
 
 
 
