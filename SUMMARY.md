@@ -15,7 +15,7 @@
 
 ## ÜRÜN YÖNETİMİ
 
-* [Ürün ve Kategori Yönetimi](urun-yonetimi.md)
+* [Özellik/Seçenek/Filtre/Üretici Girişi ](urun-yonetimi.md)
 
 ## TEMA VE TASARIM YÖNETİMİ
 
