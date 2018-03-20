@@ -1,6 +1,6 @@
-#### Ürün ve kategori girişi yapmadan önce bu kısımda kullanacağınız değerler olan Özellikler, Seçenekler, Filtreler ve Üreticileri bir önceki bölümden tamamlamanızı öneririz. 
+> #### Ürün ve kategori girişi yapmadan önce bu kısımda kullanacağınız değerler olan Özellikler, Seçenekler, Filtreler ve Üreticileri bir önceki bölümden tamamlamanızı öneririz.
 
-#### 
+---
 
 ### Kategori Girişi
 
@@ -14,9 +14,7 @@ Sitenizdeki ürün kategorilerinizin girişini görsellerde anlatıldığı şek
 
 ## Ürün Girişi
 
-Bu aşamadan önce sitenizdeki tüm ayarları yapmış olmanızı ve bir önceki bölümde yer alan Özellikler, Seçenekler, Filtreler, Üreticiler ve Kategoriler değerlerinin eksiksiz olarak sitenize girmiş olmanızı öneririz. 
-
-
+Bu aşamadan önce sitenizdeki tüm ayarları yapmış olmanızı ve bir önceki bölümde yer alan Özellikler, Seçenekler, Filtreler, Üreticiler ve Kategoriler değerlerinin eksiksiz olarak sitenize girmiş olmanızı öneririz.
 
 ## 
 
