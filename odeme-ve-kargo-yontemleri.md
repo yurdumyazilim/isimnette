@@ -1,8 +1,6 @@
 ## Ödeme Yöntemleri
 
-Siteniz üzerinden yapacağınız satışlarda ödeme alabileceğiniz çeşitli yöntemler mevcuttur. Ödeme metodları aşağıdaki gibidir. Aynı ödeme metodundan bir tane kullanabilirsiniz. Farklı ödeme metodlarından dilediğiniz kadar kullanabilirsiniz.
-
-
+Siteniz üzerinden yapacağınız satışlarda ödeme alabileceğiniz çeşitli yöntemler mevcuttur. Mevcut ödeme metodları aşağıdaki gibidir. Aynı ödeme metodu bir adet kullanabilirsiniz. Farklı ödeme metodlarından dilediğiniz kadar kullanabilirsiniz.
 
 ## 
 
